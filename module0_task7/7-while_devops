@@ -1,6 +1,6 @@
 #!/bin/bash
 n=0
-while [ "$n" -lt 10 ];
+while [ $n -lt 10 ];
 do 
 echo "DevOps"
 n=$((n + 1))
