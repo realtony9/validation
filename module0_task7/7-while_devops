@@ -3,5 +3,5 @@ number=0
 while [ "$number" -lt 10 ];
 do 
 echo "DevOps"
-number=$((n + 1))
+number=$((number + 1))
 done
